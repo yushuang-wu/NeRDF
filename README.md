@@ -2,7 +2,7 @@
 > Efficient View Synthesis with Neural Radiance Distribution Field <br />
 > [GAP Lab](https://gaplab.cuhk.edu.cn/), [Yushuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=x5gpN0sAAAAJ)
 
-![Teaser](figures/pipleline.png)
+![Teaser](figures/pipeline.png)
 
 [Paper](https://arxiv.org/abs/2304.10179.pdf) - 
 [Project Website](https://yushuang-wu.github.io/SCoDA/) -
