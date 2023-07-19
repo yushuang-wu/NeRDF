@@ -18,7 +18,7 @@ If you find our code or paper useful for your project, please consider citing:
       title={Efficient View Synthesis with Neural Radiance Distribution Field},
       author={Yushuang, Wu and Xiao, Li and Jinglu, Wang and Xiaoguang, Han and Shuguang, Cui and Yan, Lu},
       booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
-      year={2023},
+      year={2023}
     }
     
 Codes coming soon.
