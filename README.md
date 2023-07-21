@@ -5,7 +5,7 @@
 ![Teaser](figures/pipeline.png)
 
 [Paper](https://arxiv.org/abs/2304.10179.pdf) - 
-[Project Website](https://yushuang-wu.github.io/SCoDA/) -
+[Project Website](https://yushuang-wu.github.io/NeRDF/) -
 [Arxiv](https://arxiv.org/abs/2304.10179) -
 Published in ICCV 2023.   <br />
 This work was completed when Yushuang was an intern at Microsoft Research Asia. 
