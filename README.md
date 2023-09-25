@@ -4,7 +4,7 @@
 
 ![Teaser](figures/pipeline.png)
 
-[Paper](https://arxiv.org/abs/2304.10179.pdf) - 
+[Paper](https://arxiv.org/pdf/2308.11130.pdf) - 
 [Project Website](https://yushuang-wu.github.io/NeRDF/) -
 [Arxiv](https://arxiv.org/pdf/2308.11130.pdf) -
 Published in ICCV 2023.   <br />
