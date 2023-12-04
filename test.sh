@@ -1,0 +1,2 @@
+# CUDA_VISIBLE_DEVICES=1 python nerf_llff.py --render_only --render_test --config configs/orchids.txt
+CUDA_VISIBLE_DEVICES=6 python nerdf_llff.py --render_only --render_test --config configs/flower_nerdf.txt

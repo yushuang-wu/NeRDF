@@ -1,24 +1,2 @@
-# NeRDF
-> Efficient View Synthesis with Neural Radiance Distribution Field <br />
-> [GAP Lab](https://gaplab.cuhk.edu.cn/), [Yushuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=x5gpN0sAAAAJ)
-
-![Teaser](figures/pipeline.png)
-
-[Paper](https://arxiv.org/pdf/2308.11130.pdf) - 
-[Project Website](https://yushuang-wu.github.io/NeRDF/) -
-[Arxiv](https://arxiv.org/pdf/2308.11130.pdf) -
-Published in ICCV 2023.   <br />
-This work was completed when Yushuang was an intern at Microsoft Research Asia. 
-
-#### Citation
-
-If you find our code or paper useful for your project, please consider citing:
-
-    @inproceedings{wu2023nerdf,
-      title={Efficient View Synthesis with Neural Radiance Distribution Field},
-      author={Yushuang, Wu and Xiao, Li and Jinglu, Wang and Xiaoguang, Han and Shuguang, Cui and Yan, Lu},
-      booktitle={The IEEE/CVF International Conference on Computer Vision (ICCV)},
-      year={2023}
-    }
-    
-Codes coming soon.
+# NeDRF
+ICCV23 submission: Efficient View Synthesis with Neural Radiance Distribution Field
