@@ -7,7 +7,8 @@
 [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Efficient_View_Synthesis_with_Neural_Radiance_Distribution_Field_ICCV_2023_paper.pdf) - 
 [Project Website](https://yushuang-wu.github.io/NeRDF/) -
 [Arxiv](https://arxiv.org/abs/2308.11130) -
-Published in ICCV 2023.
+Published in ICCV 2023.  <br />
+This work was done when Yushuang Wu was an intern at MSRA.
 
 #### Citation
 
